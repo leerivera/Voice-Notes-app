@@ -1,0 +1,33 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "name": "Nick",
+      "email": "Nick@google.com",
+      "created_at": "",
+      "updated_at": ""
+    }
+  ],
+  "notes": [
+    {
+      "title": "Note Title 2",
+      "content": "Note Content 2",
+      "id": 2
+    },
+    {
+      "title": "genr",
+      "content": "this note asked me to take him using the mic",
+      "id": 3
+    },
+    {
+      "title": "sdsdf",
+      "content": "what I'm saying is that it should",
+      "id": 4
+    },
+    {
+      "title": "asdasd",
+      "content": "asdasd",
+      "id": 5
+    }
+  ]
+}
